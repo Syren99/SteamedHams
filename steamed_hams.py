@@ -1,5 +1,5 @@
-def intro():
-    print("My Name is Pedro Alves")
+def ham():
+    print("Steamed Hams")
 
 def Affirmation():
     print("O João Paulo neste momento está frustrado :)")
